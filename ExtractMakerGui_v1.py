@@ -1,4 +1,8 @@
 #!/usr/bin/python2.7.13
+# PDSP Extract Maker GUI
+# ExtractMakerGui Version 1.06
+# Author: Jamin Liu
+# User interface for use of PDSP as an extract maker with a cell homogenizer
 
 import piplates.MOTORplate as MOTOR
 import RPi.GPIO as GPIO
