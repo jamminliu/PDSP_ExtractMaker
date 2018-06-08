@@ -1,7 +1,7 @@
 Programmable dual syringe pump for life science applications
 ============================================================
 
-User interface constructed for use with the programmable dual syringe pump (PDSP) with design specifications for using the PDSP as an extract maker to produce translationally active *Plasmodium falciparum* lysate. 
+User interface constructed for use with the [programmable dual syringe pump (PDSP)](https://www.sciencedirect.com/science/article/pii/S2468067218300269) with design specifications for use with a [cell homogenizer](http://www.isobiotec.com/cell-homogenizer.html) for the purpose of producing translationally active *Plasmodium falciparum* lysate. 
 
 Features
 --------
@@ -15,6 +15,7 @@ From the user interface:
 
 Internal Modifiables:
 - Stepper motor step size, step rate, acceleration/deceleration dates
+- Other features based on the [Pi-Plates MOTORplate documentation](https://pi-plates.com/motorplate-users-guide/)
 
 Requirements
 ------------
@@ -25,7 +26,7 @@ Requirements
 
 Acknowledgements
 ----------------
-We would like to acknowledge Wesley Wu for his contributions to the GUI design and Eric Lam for assisting with the 3D printing. This project was funded by the Chan Zuckerberg Biohub, San Francisco, California, United States of America under guidance of Professor Joseph DeRisi. Valentina Garcia is funded by the University of California TETRAD graduate program and Jamin Liu is funded by the UC Berkeley-UCSF Graduate Program in Bioengineering.
+We would like to acknowledge Wesley Wu for his contributions to the GUI design and Eric Lam for assisting with the 3D printing. This project was funded by the Chan Zuckerberg Biohub, San Francisco, California, United States of America under guidance of Professor [Joseph DeRisi](http://derisilab.ucsf.edu/). Valentina Garcia is funded by the University of California TETRAD graduate program and Jamin Liu is funded by the UC Berkeley-UCSF Graduate Program in Bioengineering.
 
 For more information, please check out the original paper on HardwareX:  
 [Low-cost touchscreen driven programmable dual syringe pump for life science applications](https://www.sciencedirect.com/science/article/pii/S2468067218300269)
