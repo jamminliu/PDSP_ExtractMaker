@@ -28,4 +28,5 @@ Acknowledgements
 We would like to acknowledge Wesley Wu for his contributions to the GUI design and Eric Lam for assisting with the 3D printing. This project was funded by the Chan Zuckerberg Biohub, San Francisco, California, United States of America under guidance of Professor Joseph DeRisi. Valentina Garcia is funded by the University of California TETRAD graduate program and Jamin Liu is funded by the UC Berkeley-UCSF Graduate Program in Bioengineering.
 
 For more information, please check out the original paper on HardwareX: 
+
 [Low-cost touchscreen driven programmable dual syringe pump for life science applications](https://www.sciencedirect.com/science/article/pii/S2468067218300269)
