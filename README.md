@@ -6,7 +6,7 @@ User interface constructed for use with the programmable dual syringe pump (PDSP
 Features
 --------
 
-![GUI example](https://ars.els-cdn.com/content/image/1-s2.0-S2468067218300269-gr5_lrg.jpg =500x)
+![GUI example](https://ars.els-cdn.com/content/image/1-s2.0-S2468067218300269-gr5_lrg.jpg width="48")
 
 From the user interface:
 - Control volume of lysate to be homogenized 
